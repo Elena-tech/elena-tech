@@ -49,13 +49,10 @@ Welcome to my GitHub profile! I am Elena Petrova, an MSc student in Data Science
 
 ## 📫 Contact
 
-- **Email:** elena@offshorly.com
+- **Email:** sayhellotoelena@gmail.com
 - **LinkedIn:** [Elena Petrova](https://www.linkedin.com/in/elena-tech/)
 
 ## 🌟 Projects
 
 Here you will find a collection of my projects that showcase my skills in AI, machine learning, web development, and data analysis. I am always looking for new challenges and opportunities to collaborate on exciting projects. Feel free to reach out to me!
 
----
-
-Feel free to modify any part of this README to better suit your preferences or to add more details about your projects and interests.
