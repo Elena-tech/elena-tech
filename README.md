@@ -49,7 +49,6 @@ Welcome to my GitHub profile! I am Elena Petrova, an MSc student in Data Science
 - **Problem Solving (Basic) Certificate**
   *HackerRank, 2024*
 
-
 - **Problem Solving (Basic) Certificate**
   *HackerRank, 2024*
 
