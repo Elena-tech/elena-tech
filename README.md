@@ -46,10 +46,10 @@ Welcome to my GitHub profile! I am Elena Petrova, an MSc student in Data Science
 - Developed a robust client network and improved sales strategies using data-driven approaches.
 
 ## 📜 Certifications
-- **Problem Solving (Basic) Certificate**
+- **Problem Solving (Basic) Certificate**  
   *HackerRank, 2024*
 
-- **Problem Solving (Basic) Certificate**
+- **Problem Solving (Intermediate) Certificate**  
   *HackerRank, 2024*
 
 - **Software Engineer Intern Certificate**  
