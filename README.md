@@ -92,7 +92,6 @@ Here you’ll find projects spanning **AI, machine learning, NLP, web developmen
 - Building tools for education and creative industries  
 - Exploring new ways to make complex technology more accessible  
 
-
 ---
 
 ## 📫 Contact  
