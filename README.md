@@ -81,6 +81,6 @@ Here you’ll find a collection of projects that showcase my skills in **AI, mac
 
 ## 📫 Contact  
 - **Email:** sayhellotoelena@gmail.com  
-- **LinkedIn:** [Elena Petrova](https://www.linkedin.com/in/elena-petrova)  
+- **LinkedIn:** [Elena Petrova](https://www.linkedin.com/in/elena-tech/)  
 
 Feel free to reach out—I’m excited to collaborate and explore the latest in AI, software development, and creative technology!  
