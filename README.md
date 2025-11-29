@@ -168,7 +168,8 @@ _For concrete examples, see the pinned repositories on this profile._
 
 [![Elena's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elena-tech&theme=github-compact&hide_border=true)](https://github.com/elena-tech)
 
-## Contribution Snake
+## Oh no, the snake is eating my contributions
+<sub>At least it’s motivated.</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elena-tech/elena-tech/output/github-contribution-grid-snake-dark.svg" />
