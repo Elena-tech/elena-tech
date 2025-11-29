@@ -168,7 +168,4 @@ _For concrete examples, see the pinned repositories on this profile._
 
 [![Elena's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elena-tech&theme=github-compact&hide_border=true)](https://github.com/elena-tech)
 
-## Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/elena-tech/elena-tech/output/snake.svg)
 
