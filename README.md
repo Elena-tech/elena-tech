@@ -1,101 +1,170 @@
-# 👩‍💻 Elena Petrova  
-**Computer Scientist • AI & Data Science • Full-Stack Developer • Educator**
+<div align="center">
+  <h1>Elena Petrova</h1>
+  <h3>Forward Deployed Engineer · AI & Data · Full-Stack Developer · Educator</h3>
 
-Welcome to my GitHub! I’m Elena – a multidisciplinary developer and educator working at the intersection of **AI, machine learning, and web development**. My background spans **full-stack engineering, natural language processing (NLP), and data science**, and I love turning ideas into working prototypes, tools, and teaching materials.
+  <br />
 
----
+  <img src="https://img.shields.io/badge/AI%20Engineer-%230b1020.svg?style=for-the-badge&labelColor=111827&color=6366F1" />
+  <img src="https://img.shields.io/badge/Data%20%26%20MLOps-%230b1020.svg?style=for-the-badge&labelColor=111827&color=F59E0B" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Web-%230b1020.svg?style=for-the-badge&labelColor=111827&color=10B981" />
+  <img src="https://img.shields.io/badge/Educator-%230b1020.svg?style=for-the-badge&labelColor=111827&color=EC4899" />
 
-## 🎓 Education  
+  <br /><br />
 
-- **MSc Data Science and AI for the Creative Industries**  
-  *UAL Creative Computing Institute*  
-  *2023 – 2024*  
-
-- **BSc Chemical Technology**  
-  *Dmitry Mendeleev University of Chemical Technology of Russia*  
-  *2013 – 2017*  
-
----
-
-## 🛠️ Skills  
-
-**Programming Languages**  
-Python · JavaScript · HTML · CSS · SQL · Matlab · Ruby · Ruby on Rails  
-
-**Frameworks & Libraries**  
-React · Vue.js · Node.js · TensorFlow · PyTorch  
-
-**AI & Data**  
-Natural Language Processing (NLP) · Machine Learning · Deep Learning · Data Analysis · Computer Vision · GPT APIs · Hugging Face Transformers · Cloud-based ML  
-
-**Web Development**  
-Front-end & Full-stack Development · UX/UI-conscious implementation  
-
-**Tools & Platforms**  
-Git · Docker · Google Cloud · AWS · Flask · SQL · Figma  
+  <sub><b>Designing and deploying AI systems where correctness, traceability, and user experience actually matter.</b></sub>
+</div>
 
 ---
 
-## 💼 Experience  
+## About Me
 
-### Forward Deployed Engineer  
-**Ensemble AI** · *Sep 2025 – Present · London, UK (On-site)*  
-- Design, build, and ship AI-powered automation platforms (Ensemble Cortex) for highly regulated industries.  
-- Work closely with enterprise clients to turn complex reviews, investigations, and verifications into scalable, production-ready workflows.  
-- Implement end-to-end data and ML pipelines, including validation, optimisation, orchestration, and human-in-the-loop review.  
-- Focus on **“automating the job, not just the task”** by delivering systems that achieve levels of assurance no manual team could reach alone.  
+I’m Elena — a forward deployed engineer and AI/full-stack developer who cares about **shipping real systems**, not just demos.
 
-### Teaching Assistant (Software Engineering)  
-**UCL School of Management** · *2025 – Present*  
-- Support Level 5 Business Management students in learning core Software Engineering concepts.  
-- Break down complex technical topics for non-technical learners.  
-- Collaborate with faculty on the design and delivery of course materials and activities.
+I design and build **AI-powered automation** end-to-end: from data extraction and ML pipelines to evaluation, monitoring, and production-ready web apps. I work especially well in **messy, high-stakes environments** (regulation, compliance, operations) where data is imperfect, users are busy, and correctness actually matters.
 
-### Associate Lecturer (AI and NLP)  
-**Peckham DAZ Programme & UAL Creative Computing Institute** · *2024 – Present*  
-- Teach NLP and AI with a focus on creative and applied use cases.  
-- Design hands-on labs in Python, machine learning, and generative AI.  
-- Mentor students exploring innovative applications of AI and language technologies.
+Alongside industry work, I’m a **lecturer / teaching assistant** in Software Engineering, AI & NLP, turning complex topics into projects that non-CS students can actually build and deploy.
 
-### Full-Stack Web Developer  
-**Offshorly** · *2020 – 2023*  
-- Built and maintained frontend and backend features for AI-enabled web applications.  
-- Contributed to data processing and machine learning–driven functionality.  
-- Used React, Vue.js, and Python-based backends to deliver production-ready solutions.  
+When I’m offline you’ll usually find me snowboarding, surfing, climbing in the Himalayas, teaching yoga, or scuba diving with whale sharks and manta rays.
 
-### Bid Manager  
-**DPD, Russia and CIS Office** · *2018*  
-- Analyzed market and pricing data to shape bid strategies.  
-- Helped secure major contracts through data-informed decision-making.
+**Highlights**
 
-### Assistant Sales Manager  
-**LabTeh** · *2017 – 2018*  
-- Developed and maintained a client network using data-driven sales approaches.  
-- Improved sales effectiveness through targeted campaigns and outreach.
+- Forward Deployed Engineer building AI automation in highly regulated industries  
+- Lecturer / TA teaching Software Engineering, AI & NLP at university level  
+- MSc Data Science & AI for the Creative Industries (UAL CCI)  
+- Experience across the full stack: frontend, backend, data, MLOps, and infrastructure  
+- Certified yoga teacher, scuba diver, mountain lover, and long-time tech nerd  
 
 ---
 
-## 📜 Certifications  
+## Socials
 
-- **Problem Solving (Basic)** – HackerRank, 2024  
-- **Problem Solving (Intermediate)** – HackerRank, 2024  
-- **Software Engineer Intern** – Le Wagon, 2020  
-- **HTML, CSS, and JavaScript** – Birkbeck, University of London, 2019  
-
----
-
-## 🌟 Projects  
-
-Here you’ll find projects spanning **AI, machine learning, NLP, web development, and data analysis**. I’m always interested in:  
-
-- Collaborating on AI-powered applications  
-- Building tools for education and creative industries  
-- Exploring new ways to make complex technology more accessible  
+<p align="left">
+  <a href="https://linkedin.com/in/elena-tech">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:el6na.petrova@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📫 Contact  
-- **Email:** sayhellotoelena@gmail.com  
-- **LinkedIn:** [Elena Petrova](https://www.linkedin.com/in/elena-tech/)  
+## Focus Areas
 
-> 💌 Feel free to open an issue or reach out if you’d like to collaborate!
+### AI & Data Engineering
+
+- Design and implementation of **LLM/ML pipelines** (retrieval, validation, enrichment, classification)  
+- Data extraction and normalisation from **PDFs, scans, APIs, legacy CSVs**  
+- Evaluation, monitoring and **human-in-the-loop review** for trustworthy systems  
+
+### Full-Stack & Product
+
+- **React / Next.js** frontends, **FastAPI / Flask / Node** backends  
+- Architecting and deploying to **AWS / GCP / serverless** with CI/CD and IaC  
+- Turning vague requirements into **low-friction tools** that people actually use  
+
+### Teaching & Developer Experience
+
+- Project-based **labs, assessments, and curricula** in AI, NLP, and software engineering  
+- Reusable **notebooks, exercises, and starter repos** for students and teams  
+- Clear explanations of vectors, LLMs, and MLOps for non-traditional backgrounds  
+
+---
+
+# Tech Stack
+
+### Languages & Core
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Backend & APIs
+
+![NodeJS](https://img.shields.io/badge/node.js-026E00?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data, ML & AI
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAC00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Cloud, DevOps & Hosting
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+### Design, Product & Other
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## Currently Building / Open to Collaborate On
+
+- AI automation and agents for real-world operations (compliance, logistics, finance, housing)  
+- Data and MLOps pipelines from ingestion through feature stores to evaluation dashboards  
+- AI and software engineering education for non-traditional and non-CS backgrounds  
+- AI x creativity: interactive experiences where art, data, and language models meet  
+
+If you are working on AI products with real users and real constraints, I am open to collaboration and conversations.
+
+---
+
+## Selected Work
+
+- **AI Automation in Regulated Workflows**  
+  Design and implementation of AI systems for validation, optimisation, and orchestration of complex business processes where every decision must be auditable and explainable.
+
+- **Full-Stack AI Products**  
+  End-to-end delivery of applications combining React / Next.js frontends, FastAPI / Flask backends, RAG/LLM pipelines, and cloud infrastructure (AWS/GCP) with CI/CD and monitoring.
+
+- **University-Level Teaching in AI & Software Engineering**  
+  Project-based modules for students from business, creative, and design backgrounds learning Python, NLP, and generative AI.
+
+- **“The Art Speaking to You”**  
+  Research and prototype for AI-driven interactive museum experiences, exploring how people engage with artworks when they can respond dynamically.
+
+_For concrete examples, see the pinned repositories on this profile._
+
+---
+
+## Activity
+
+[![Elena's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elena-tech&theme=github-compact&hide_border=true)](https://github.com/elena-tech)
+
