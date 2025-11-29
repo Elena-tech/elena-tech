@@ -1,15 +1,15 @@
 name: Generate Snake
 
 on:
-  # Run once a day
   schedule:
-    - cron: "0 0 * * *"
-  # Allow manual trigger
-  workflow_dispatch:
-  # Optionally, run on each push to main (not required)
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch:       # allow manual trigger
   push:
     branches:
       - main
+
+permissions:
+  contents: write          # <— this is key
 
 jobs:
   build:
