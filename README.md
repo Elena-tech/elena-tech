@@ -169,7 +169,6 @@ _For concrete examples, see the pinned repositories on this profile._
 [![Elena's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elena-tech&theme=github-compact&hide_border=true)](https://github.com/elena-tech)
 
 ## Oh no, the snake is eating my contributions
-<sub>At least it’s motivated.</sub>
 
 <div align="center">
   <picture>
