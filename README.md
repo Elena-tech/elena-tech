@@ -22,7 +22,7 @@ I’m Elena — a forward deployed engineer and AI/full-stack developer who care
 
 I design and build **AI-powered automation** end-to-end: from data extraction and ML pipelines to evaluation, monitoring, and production-ready web apps. I work especially well in **messy, high-stakes environments** (regulation, compliance, operations) where data is imperfect, users are busy, and correctness actually matters.
 
-Alongside industry work, I’m a **lecturer / teaching assistant** in Software Engineering, AI & NLP, turning complex topics into projects that non-CS students can actually build and deploy.
+Alongside industry work, I’m a **lecturer** in Software Engineering, AI & NLP, turning complex topics into projects that non-CS students can actually build and deploy.
 
 When I’m offline you’ll usually find me snowboarding, surfing, climbing in the Himalayas, teaching yoga, or scuba diving with whale sharks and manta rays.
 
