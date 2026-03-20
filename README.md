@@ -24,7 +24,7 @@ I design and build **AI-powered automation** end-to-end: from data extraction an
 
 Alongside industry work, I’m a **lecturer** in Software Engineering, AI & NLP, turning complex topics into projects that non-CS students can actually build and deploy.
 
-When I’m offline you’ll usually find me snowboarding, surfing, climbing in the Himalayas, teaching yoga, or scuba diving with whale sharks and manta rays.
+When I’m offline you’ll usually find me snowboarding, surfing, climbing in the Himalayas, teaching yoga, or scuba diving with whale sharks and manta rays. =)
 
 **Highlights**
 
