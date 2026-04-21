@@ -16,117 +16,126 @@
   <br /><br />
 
   <a href="https://linkedin.com/in/elena-tech">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:el6na.petrova@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ---
 
-I'm a forward deployed engineer who ships **AI-powered systems end-to-end** — from data pipelines and LLM orchestration to serverless infrastructure and production monitoring. I work best in **messy, high-stakes environments** where data is imperfect, users are busy, and correctness actually matters.
+## About Me
+
+I'm Elena — a forward deployed engineer who ships **AI-powered systems end-to-end**: from data pipelines and LLM orchestration to serverless infrastructure and production monitoring.
+
+I work best in **messy, high-stakes environments** where data is imperfect, users are busy, and correctness actually matters.
 
 I also **teach** Software Engineering, AI & NLP at university level, turning complex topics into projects that non-CS students can build and deploy.
 
-Off-screen: snowboarding, surfing, climbing in the Himalayas, teaching yoga, scuba diving with whale sharks and manta rays.
+When I'm offline you'll usually find me snowboarding, surfing, climbing in the Himalayas, teaching yoga, or scuba diving with whale sharks and manta rays. =)
+
+**Highlights**
+
+- Forward Deployed Engineer building AI automation in highly regulated industries
+- Lecturer teaching Software Engineering, AI & NLP at university level
+- MSc Data Science & AI for the Creative Industries (UAL CCI)
+- Full stack: AI pipelines, cloud infrastructure, serverless, frontend, backend
+- Certified yoga teacher, scuba diver, mountain lover, long-time tech nerd
 
 ---
 
-## What I Do
+## Focus Areas
 
-**AI & Data** — LLM pipelines, RAG, enrichment, classification, evaluation, human-in-the-loop review. Data extraction from PDFs, scans, APIs, legacy CSVs. Production monitoring and observability.
+### AI & Data Engineering
 
-**Cloud & Infrastructure** — AWS Lambda, Bedrock, S3, DynamoDB, Terraform, CI/CD with GitHub Actions. Serverless-first, infrastructure as code, automated deployments.
+- LLM pipelines — RAG, enrichment, classification, orchestration
+- Computer vision with Google Lens, AWS Bedrock, and Claude
+- Data extraction from PDFs, scans, APIs, legacy CSVs
+- Evaluation, monitoring, and human-in-the-loop review
 
-**Full-Stack** — React / Next.js frontends, FastAPI / Flask / Node backends. Turning vague requirements into tools people actually use.
+### Cloud & Infrastructure
 
-**Teaching** — Project-based labs and curricula in AI, NLP, and software engineering for non-traditional backgrounds.
+- AWS Lambda, Bedrock, S3, DynamoDB — serverless-first
+- Terraform, GitHub Actions, CI/CD pipelines
+- Infrastructure as code, automated deployments, observability
+
+### Full-Stack & Product
+
+- **React / Next.js** frontends, **FastAPI / Flask / Node** backends
+- Turning vague requirements into **low-friction tools** that people actually use
+
+### Teaching
+
+- Project-based labs and curricula in AI, NLP, and software engineering
+- Clear explanations of LLMs, vectors, and MLOps for non-traditional backgrounds
 
 ---
 
-## Tech
+## Tech Stack
 
-<table>
-<tr><td>
+### Languages
 
-**Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+### AI & Data
 
-</td><td>
+![Claude](https://img.shields.io/badge/Claude-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAC00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-**AI & Data**
+### Frontend
 
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFAC00?style=flat-square&logo=huggingface&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-</td></tr>
-<tr><td>
+### Backend
 
-**Frontend**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-026E00?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+### Cloud & DevOps
 
-</td><td>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-**Backend**
+### Design & Tools
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-026E00?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td></tr>
-<tr><td>
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-</td><td>
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
-
-</td></tr>
-</table>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 ---
 
 ## Selected Work
 
-**AI Systems for Complex Workflows**
-Design and deployment of AI pipelines for validation, enrichment, and orchestration in environments where every decision must be traceable.
+- **AI Systems for Complex Workflows**
+  Design and deployment of AI pipelines for validation, enrichment, and orchestration where every decision must be traceable.
 
-**Serverless AI Microservices**
-Lambda-based services with LLM reasoning, computer vision, and structured data extraction — built TDD, deployed with Terraform, monitored in production.
+- **Serverless AI Microservices**
+  Lambda-based services with LLM reasoning, computer vision, and structured data extraction — TDD, Terraform, production-monitored.
 
-**Full-Stack AI Products**
-End-to-end applications: React frontends, Python backends, RAG/LLM pipelines, AWS infrastructure, CI/CD, and observability.
+- **Full-Stack AI Products**
+  End-to-end applications: React frontends, Python backends, RAG/LLM pipelines, AWS infrastructure, CI/CD, and observability.
 
-**University Teaching**
-Project-based modules in AI, NLP, and software engineering for students from business, creative, and design backgrounds.
+- **University-Level Teaching**
+  Project-based modules in AI, NLP, and software engineering for students from business, creative, and design backgrounds.
 
-**"The Art Speaking to You"**
-Research prototype for AI-driven interactive museum experiences — exploring how people engage with art when it can respond.
+- **"The Art Speaking to You"**
+  Research prototype for AI-driven interactive museum experiences — exploring how people engage with art when it can respond.
 
 _See pinned repositories for examples._
 
